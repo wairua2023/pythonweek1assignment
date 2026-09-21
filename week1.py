@@ -1,5 +1,5 @@
 # Store your details in variables
-name = "Your name"
+name = "Steve"
 age = 20
 favourite_language = "Python"
 
